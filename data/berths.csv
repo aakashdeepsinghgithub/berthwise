@@ -1,0 +1,6 @@
+id,name,length_m,depth_m,allowed_types
+B1,North Container Quay,400,15.0,CONTAINER
+B2,Liquid Bulk Jetty,300,14.0,TANKER
+B3,Dry Bulk Berth,260,13.0,BULK|CONTAINER
+B4,Ro-Ro Ramp,230,10.5,RORO
+B5,Cruise Terminal,390,10.0,CRUISE|RORO
